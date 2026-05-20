@@ -137,4 +137,3 @@ plt.show()
 
 ## RESULT:
 The PSK and QPSK signals were successfully modulated and demodulated using Google Colab.
-<img width="1027" height="752" alt="image" src="https://github.com/user-attachments/assets/23c16502-4252-4eff-885a-344f05e5197c" />
